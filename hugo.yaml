@@ -1,6 +1,6 @@
-baseURL: "https://moehijazi.github.io/test"
+baseURL: "https://moehijazi.github.io/test/"
 languageCode: "en-us"
-title: "Muhamamd Ali Haidarr"
+title: "Muhamamd Ali Haidar"
 theme: hugo-profile
 
 outputs:
