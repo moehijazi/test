@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Muhamamd Ali Haidar"
 theme: hugo-profile
 
+
+
 outputs:
   home:
     - "HTML"
@@ -14,6 +16,7 @@ outputs:
 
 Paginate: 6
 enableRobotsTXT: true
+canonifyURLs: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
 
